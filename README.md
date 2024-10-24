@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a large scale APP called Tiles.<br>Learning NodeJS and Tailwind on the go.
+Currently working on a large scale App called Tiles.<br>Learning NodeJS and Tailwind.
 
 
 ## 🌐 Socials:
